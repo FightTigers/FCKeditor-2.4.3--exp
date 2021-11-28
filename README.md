@@ -1,1 +1,1 @@
-# FCKeditor-2.4.3--exp
+# FCKeditor-2.4.3-exp
